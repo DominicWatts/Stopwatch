@@ -1,5 +1,5 @@
 {
-    "name": "xigen/module-stopwatch",
+    "name": "dominicwatts/stopwatch",
     "description": "Magneto 2 console commands with symfony stopwatch",
     "type": "magento2-module",
     "license": "proprietary",
